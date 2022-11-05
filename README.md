@@ -28,10 +28,10 @@
 
 # Cantidad de dispositivos de red que se utilizaron:
 *	Swicht : 9
-•	Acces point: 4
-•	Puntos de acceso fijos: 38
-•	Cable UTP6
-•	Router
+* Acces point: 4
+* Puntos de acceso fijos: 38
+* Cable UTP6
+* Router
 
 # Números de puntos de red tanto físicos e inalámbricos:
 En la red del edificio existen 25 puntos físicos y 2 puntos de acceso inalámbricos.  
