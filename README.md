@@ -27,7 +27,7 @@
 
 
 # Cantidad de dispositivos de red que se utilizaron:
-•	Swicht : 9 /n
+•	Swicht : 9 \n
 •	Acces point: 4
 •	Puntos de acceso fijos: 38
 •	Cable UTP6
