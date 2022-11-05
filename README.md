@@ -36,22 +36,22 @@
 # Números de puntos de red tanto físicos e inalámbricos:
 En la red del edificio existen 25 puntos físicos y 2 puntos de acceso inalámbricos.  
 En la parte administrativa, laboratorio y aula se tiene 17 puntos de red físicos y 2 puntos de acceso inalámbricos.
-•	Total de Puntos de acceso físico: 45 (añadiendo los 3 swicht del data center)
-•	Total de Puntos de acceso inalámbrico: 4
+* Total de Puntos de acceso físico: 45 (añadiendo los 3 swicht del data center)
+*	Total de Puntos de acceso inalámbrico: 4
 
 
 En la red de datos solo se uso el cable UTP6 para establecer todas las conexiones, debido a que las distancias son menores a 100m.
 # Distancias de  Swicht al data center:
-•	Al área administrativa: 70 m
-•	Al edificio entre 20, 30, y 47m
-•	Al laboratorio 80m
-•	Al área externa 77 m
+*	Al área administrativa: 70 m
+*	Al edificio entre 20, 30, y 47m
+*	Al laboratorio 80m
+*	Al área externa 77 m
 Las distancias descritas anteriormente son distancias aproximadas.
 
 # Numero de Swichtes en el data center
-•	Swicht para el edificio
-•	Swicht para el área administrativa
-•	Swicht para la conexión al router y los swicht del área administrativa y edificio 
+*	Swicht para el edificio
+*	Swicht para el área administrativa
+*	Swicht para la conexión al router y los swicht del área administrativa y edificio 
 
 La topología que se uso para establecer la conexión de la red fue la de estrella 
 
