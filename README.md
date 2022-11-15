@@ -1,22 +1,27 @@
 # Red_espoch_sede_centro
 
-![espoch](https://user-images.githubusercontent.com/102395575/200126283-8ece9fba-b71e-446d-a54b-a49e00216034.png)
+![espoch_def](https://user-images.githubusercontent.com/102395575/201924895-35ca734f-5450-4bf5-ad0a-8af1a2cfdeed.png)
 
 # red del edificio
 
-![image](https://user-images.githubusercontent.com/102395575/200126365-6dc295f4-aa8c-45bf-8d3d-e297e389d52e.png)
+![image](https://user-images.githubusercontent.com/102395575/201924981-5cfb2309-505b-437e-b60b-a3d05b4c79eb.png)
+![image](https://user-images.githubusercontent.com/102395575/201925085-360a3a79-886f-409b-b93d-4b71f8f9526f.png)
+
 
 # Area administrativa
 
-![image](https://user-images.githubusercontent.com/102395575/200126377-cd2e3e7c-d7ae-4793-ba22-2e937494ebcf.png)
+![image](https://user-images.githubusercontent.com/102395575/201925182-e2e5f73d-95be-453b-a0f0-b051c7307d6b.png)
+
 
 # laboratorio y demas aulas
 
-![image](https://user-images.githubusercontent.com/102395575/200126423-885c2fd9-d58c-4f27-aa08-f3e291876eb3.png)
+![image](https://user-images.githubusercontent.com/102395575/201925242-3d35f550-c9b2-464b-a657-ab6ee28e77a3.png)
+![image](https://user-images.githubusercontent.com/102395575/201925301-32c2df95-d106-4279-bb00-c9000caeecbb.png)
+
 
 # Data center
 
-![image](https://user-images.githubusercontent.com/102395575/200126439-119c31b9-4959-43fa-8892-ae1cee2e3d56.png)
+![image](https://user-images.githubusercontent.com/102395575/201925402-92adaade-b0d7-48fb-a88c-ed52b5322b97.png)
 
 
 # esquema fisico de la red 
