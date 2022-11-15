@@ -29,7 +29,7 @@
 # Cantidad de dispositivos de red que se utilizaron:
 *	Swicht : 9
 * Acces point: 4
-* Puntos de acceso fijos: 38
+* Puntos de acceso fijos: 34
 * Cable UTP6
 * Router
 
@@ -42,10 +42,10 @@ En la parte administrativa, laboratorio y aula se tiene 17 puntos de red físico
 
 En la red de datos solo se uso el cable UTP6 para establecer todas las conexiones, debido a que las distancias son menores a 100m.
 # Distancias de  Swicht al data center:
-*	Al área administrativa: 70 m
-*	Al edificio entre 20, 30, y 47m
-*	Al laboratorio 80m
-*	Al área externa 77 m
+*	Al área administrativa: 72 m
+*	Al edificio entre 60, 54, 80, 72 y 57m
+*	Al laboratorio 89m
+*	Al área externa 66 m
 Las distancias descritas anteriormente son distancias aproximadas.
 
 # Numero de Swichtes en el data center
